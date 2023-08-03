@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('Running Version 5.0');
+console.log('Running Version 6.0');
